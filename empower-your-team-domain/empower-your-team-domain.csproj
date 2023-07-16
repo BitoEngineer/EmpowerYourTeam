@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>empower_your_team_domain</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Bible\PersonallityTraitsMeaning.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Bible\PersonallityTraitsMeaning.txt" />
+  </ItemGroup>
+
+</Project>
