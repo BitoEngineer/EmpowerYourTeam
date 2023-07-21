@@ -1,3 +1,12 @@
 .vs/
 empower-your-team-app/obj/
 empower-your-team-domain/obj/
+App/obj/
+Brain/bin/
+Brain/obj/
+Domain/bin/
+Domain/obj/
+Utils/bin/
+Utils/obj/
+empower-your-team-utils/obj/
+App/bin/

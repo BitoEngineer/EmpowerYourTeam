@@ -1,0 +1,29 @@
+Considering the team members description that you gave me before, Luís, Andrej, Nuno, Jorge and Candida, I want the transcript of 5 daily meeeting of that team. 
+Consider the following:
+- The team is working on a feature to use ChatGPT API to generate automatically fixes for the issues detected by Codcy
+- Nuno Cardoso is with personal issues and that's impacting the way that he behaves, ending up being more aggresive and not very collaborative
+Please give me the transcripts as a JSON schema that respects the following format:
+    public class Meeting
+    {
+        public Transcript Transcript { get; set; }
+        public int DurationMinutes { get; set; }
+        public PartOfTheDay PartOfTheDay { get; set; }
+    }
+    public enum PartOfTheDay
+    {
+        EarlyMorning,
+        BeforeLunch,
+        AfterLunch,
+        LateAfterNoon
+    }
+    public class Transcript
+    {
+        public List<Talk> Talks { get; set; }
+    }
+    public class Talk
+    {
+        public string MemberName { get; set; }
+        public string Text { get; set; }
+        public DateTime Timestamp { get; set; }
+        public TimeSpan Duration { get; set; }
+    }

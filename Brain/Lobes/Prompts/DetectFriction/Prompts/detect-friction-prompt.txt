@@ -1,0 +1,7 @@
+Later on I will ask you to check if there was any friction or misunderstanding between multiple team members of a development team.
+But first I want to give you some relevant context about the team.
+<<PeronalityTraitsMeaning>>
+<<TeamContext>>
+Now I will give you transcript of one or more meetings of this team with the correspondent transcript and necessary details.
+<<MeetingContext>>
+Now that you have all the context you need. I would like that you <<ExpectedOutput>>

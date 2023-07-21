@@ -1,18 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>empower_your_team_domain</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Bible\PersonallityTraitsMeaning.txt" />
+    <ProjectReference Include="..\Brain\Brain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="Bible\PersonallityTraitsMeaning.txt" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>

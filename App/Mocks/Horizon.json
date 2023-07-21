@@ -1,0 +1,123 @@
+{
+	"Name": "Horizon",
+	"Description": "The main focus of Horizon is to use AI to optimize the Codacy developer experience",
+	"Birthday": "2023-07-20 14:30:00",
+	"Members": [
+		{
+			"Name": "Luís Ventura",
+			"Role": "Software Engineer",
+			"TotalDaysInTheTeam": 465,
+			"Seniority": "IntermediateThriving",
+			"Personality": {
+				"Aggreableness": 9,
+				"Compassion": 8,
+				"Politeness": 9,
+				"Conscientiouness": 7,
+				"Industriousness": 6,
+				"Orderliness": 7,
+				"Extraversion": 6,
+				"Enthusiasm": 8,
+				"Assirteveness": 6,
+				"Neuroticism": 3,
+				"Withdrawal": 3,
+				"Volatily": 4,
+				"OpenenssToExperience": 7,
+				"Intellect": 8,
+				"Openess": 9
+			}
+		},
+		{
+			"Name": "Andrzej Janczak",
+			"Role": "Software Engineer",
+			"TotalDaysInTheTeam": 180,
+			"Seniority": "SeniorConfortable",
+			"Personality": {
+				"Aggreableness": 7,
+				"Compassion": 6,
+				"Politeness": 7,
+				"Conscientiouness": 8,
+				"Industriousness": 9,
+				"Orderliness": 8,
+				"Extraversion": 8,
+				"Enthusiasm": 7,
+				"Assirteveness": 9,
+				"Neuroticism": 4,
+				"Withdrawal": 4,
+				"Volatily": 5,
+				"OpenenssToExperience": 6,
+				"Intellect": 9,
+				"Openess": 8
+			}
+		},
+		{
+			"Name": "Nuno Cardoso",
+			"Role": "Software Engineer",
+			"TotalDaysInTheTeam": 60,
+			"Seniority": "IntermediateConfortable",
+			"Personality": {
+				"Aggreableness": 8,
+				"Compassion": 8,
+				"Politeness": 9,
+				"Conscientiouness": 9,
+				"Industriousness": 7,
+				"Orderliness": 8,
+				"Extraversion": 6,
+				"Enthusiasm": 7,
+				"Assirteveness": 7,
+				"Neuroticism": 3,
+				"Withdrawal": 3,
+				"Volatily": 4,
+				"OpenenssToExperience": 7,
+				"Intellect": 8,
+				"Openess": 7
+			}
+		},
+		{
+			"Name": "Jorge Braz",
+			"Role": "Engineering Manager",
+			"TotalDaysInTheTeam": 730,
+			"Seniority": "SeniorThriving",
+			"Personality": {
+				"Aggreableness": 9,
+				"Compassion": 9,
+				"Politeness": 10,
+				"Conscientiouness": 9,
+				"Industriousness": 8,
+				"Orderliness": 9,
+				"Extraversion": 5,
+				"Enthusiasm": 6,
+				"Assirteveness": 8,
+				"Neuroticism": 2,
+				"Withdrawal": 2,
+				"Volatily": 3,
+				"OpenenssToExperience": 6,
+				"Intellect": 6,
+				"Openess": 9
+			}
+		},
+		{
+			"Name": "Candida Jesus",
+			"Role": "Product Manager",
+			"TotalDaysInTheTeam": 495,
+			"Seniority": "SeniorConfortable",
+			"Personality": {
+				"Aggreableness": 8,
+				"Compassion": 7,
+				"Politeness": 8,
+				"Conscientiouness": 9,
+				"Industriousness": 9,
+				"Orderliness": 9,
+				"Extraversion": 6,
+				"Enthusiasm": 7,
+				"Assirteveness": 8,
+				"Neuroticism": 3,
+				"Withdrawal": 3,
+				"Volatily": 4,
+				"OpenenssToExperience": 7,
+				"Intellect": 9,
+				"Openess": 8
+			}
+		}
+
+	]
+}

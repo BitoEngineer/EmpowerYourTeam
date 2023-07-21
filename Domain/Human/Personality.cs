@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace empower_your_team_domain.TeamMember
+namespace EmpowerYourTeam.Domain.Human
 {
     public class Personality
     {
